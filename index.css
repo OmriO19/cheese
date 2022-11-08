@@ -1,0 +1,39 @@
+body {
+  border: 10px ridge #ffa600;
+  background-color: black;
+  color: #FBDB65;
+  padding: .5rem;
+  display: flex;
+  flex-direction: column;
+}
+intro {
+  margin: auto;
+  width: 60%;
+  padding: 10px;
+}
+h1{
+font-size: 10vh;
+  font-family: Geramond;
+}
+h1, h2{
+  font-family: Geramond;
+}
+p{
+font-family: sans-serif;
+}
+#types{
+font-family: sans-serif;
+}
+.button {
+cursor: pointer;
+border-radius: 0.5em;
+font-size: 2vh;
+font-family: sans-serif;
+box-shadow: #2d2c2c 1px 1px 1px;
+width: fit-content;
+height: fit-content;
+padding: 0 0.5em 0 0.5em;
+}
+#jerry img{
+  height: 200px;
+}
