@@ -3,6 +3,7 @@ body {
   color: #FBDB65;
   display: flex;
   flex-direction: column;
+  justify-content: center;
 }
 main {
     border: 10px ridge #ffa600;
