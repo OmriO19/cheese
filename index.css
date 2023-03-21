@@ -1,12 +1,12 @@
 body {
-  width: 90vw;
-  height: 90vh;
-  border: 10px ridge #ffa600;
   background-color: black;
   color: #FBDB65;
-/*   padding: .5rem; */
   display: flex;
   flex-direction: column;
+}
+container {
+    border: 10px ridge #ffa600;
+    padding: .5rem;
 }
 intro {
   margin: auto;
